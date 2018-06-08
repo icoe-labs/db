@@ -1,0 +1,20 @@
+{
+  "configs": [
+    "db.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "db",
+  "minMuleVersion": "4.1.1",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedResources": []
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
